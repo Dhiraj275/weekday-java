@@ -6,6 +6,7 @@ ii) Any open source IDE (Eclipse, Jcreater etc)
 2)Test the java development environment setup by implementing a simple java program (print: “OOP with JAVA”).
 
 3)Develop a basic java program that demonstrates data types of JAVA.
+
 4)Develop a Java program to swap two numbers without using a temporary variable and with using a temporary variable (use command line argument to accept value from user).
 
 5)Develop programs to demonstrate use of -
